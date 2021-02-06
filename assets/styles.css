@@ -71,6 +71,7 @@
 
 .facts {
   padding-left: 20px;
+  font-family: 'Gill Sans', 'Gill Sans MT', 'Calibri', 'Trebuchet MS', sans-serif;
 }
 
 .facts h3 {
@@ -86,6 +87,8 @@
 .row {
   margin: 15px;
 }
+
+/* Contact Styling */
 
 
 /* Footer Styling */
