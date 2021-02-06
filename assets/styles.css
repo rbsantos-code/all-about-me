@@ -1,3 +1,9 @@
+/* header styling */
+.top {
+  background-image: url("./images/citySf.jpeg");
+  
+}
+
 .site-header {
     background-color: rgba(0, 0, 0, .85);
     -webkit-backdrop-filter: saturate(180%) blur(20px);
@@ -11,3 +17,16 @@
     color: #fff;
     text-decoration: none;
   }
+
+
+/* Work/Projects Styling */
+.row {
+  margin: 15px;
+}
+
+
+/* Footer Styling */
+footer {
+  background-color: #8e8e8e;
+  border-top: 4px solid black;
+}
