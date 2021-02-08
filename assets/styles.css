@@ -96,6 +96,11 @@ body {
   margin: 15px;
 }
 
+.work img {
+  border-radius: 20%;
+}
+
+
 /* Contact Styling */
 .contact-mail {
   margin: auto;
