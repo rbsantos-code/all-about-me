@@ -94,6 +94,11 @@ body {
 }
 
 /* Work/Projects Styling */
+
+.work {
+  overflow: auto;
+}
+
 .work h2 {
   padding: 15px;
 }
@@ -103,7 +108,7 @@ body {
 }
 
 .work img {
-  border-radius: 20%;
+  border-radius: 50%;
 }
 
 
@@ -132,6 +137,7 @@ footer h2 {
   display: inline;
   font-size: 30px;
   margin: 0;
+  font-weight: bold;
 }
 
 footer div {
@@ -139,4 +145,61 @@ footer div {
   line-height: 1.5;
   text-align: right;
   padding: 10px;
+  color: white;
+}
+
+
+/* MEDIA QUERIES SECTION */
+
+@media screen and (max-width: 980px) {
+  nav {
+    margin-top: 20px;
+    width: 100%;
+    justify-content: center;
+  }
+
+  nav a {
+    font-size: 15px;
+  }
+
+  footer h2, footer div {
+    text-align: center;
+    width: 100%;
+  }
+
+  .jumbotron {
+    width: 100%;
+  }
+
+}
+
+@media screen and (max-width: 768px) {
+  .history img {
+    flex: 0 32%;
+    margin-right: 0;
+    margin-top: 15px;
+    margin-bottom: 15px;
+  }
+
+  .row img {
+    flex: 0 32%;
+    justify-content: center;
+  }
+}
+
+@media screen and (max-width: 575px) {
+
+  .facts {
+    width: 100%;
+    text-align: center;
+  }
+
+  .work h2 {
+    text-align: center;
+  }
+
+  .row img {
+    flex: 0 100%;
+  }
+
 }
