@@ -54,6 +54,7 @@ body {
 .about img {
   max-height: 200px;
   padding-right: 16px;
+  border-radius: 10%;
   
 }
 
