@@ -113,6 +113,10 @@ body {
   
 }
 
+.contact span {
+  font: bold;
+}
+
 
 /* Footer Styling */
 footer {
