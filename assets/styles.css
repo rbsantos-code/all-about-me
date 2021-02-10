@@ -3,9 +3,6 @@ body {
 }
 
 
-
-
-
 /* header styling */
 .top {
   background-image: url("./images/citySf.jpeg");
@@ -121,6 +118,7 @@ body {
 
 
 /* Contact Styling */
+
 .contact-mail {
   margin: auto;
   
