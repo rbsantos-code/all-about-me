@@ -15,10 +15,10 @@ Most importantly, I would love the chance to share some facts about myself throu
 
 ## Goals for this challenge:
 * Have a working NAVIGATION bar with linkable buttons that leads to specific sections
-* provide links to my work and to my contacts when user clicks on the contact buttons
-* have the ability to take user to GitHub, Linkedin, or Email when clicking on the images
+* Provide links to my work and to my contacts when user clicks on the contact buttons
+* Have the ability to take user to GitHub, Linkedin, or Email when clicking on the images
 * Have a responsive page while being viewed in various devices 
-* Provide a webpages that is visually appealing 
+* Provide a webpage that is visually appealing 
 
 ## Screenshots
 * Navigations
